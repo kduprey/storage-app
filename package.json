@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@fontsource/hind": "^5.0.14",
+    "@fontsource/hind": "^5.0.15",
     "@fontsource/roboto": "^5.0.14",
     "next": "14.2.8",
     "react": "18.3.1",
